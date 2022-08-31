@@ -10,7 +10,6 @@ function Post(props) {
     <div className="post-container">
       <div className="post-content">
         <div className="post-start-date">시작 예정일 | {post.startAt}</div>
-        {/* TODO: 중간점으로 변환 필요 */}
         <div className="post-title">{post.title}</div>
         <div className="post-hashtag">
           {post.recruitmentCategory && <span>{`#${post.recruitmentCategory}`}</span>}
