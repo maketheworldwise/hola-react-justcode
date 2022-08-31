@@ -5,6 +5,7 @@ import Post from "../post/Post";
 import Stack from "../../assets/svg/stack.svg";
 import Folder from "../../assets/svg/folder.svg";
 import Pencil from "../../assets/svg/pencil.svg";
+import Switch from "react-js-switch";
 
 const OPT_ALL = "";
 const OPT_PROJECT = "프로젝트";
@@ -54,10 +55,14 @@ function PostList() {
         </div>
         <div className="menu-2">
           <span className="menu-item-text">모집 중만 보기</span>
-          <label className="menu-item-switch" forhtml="switch">
-            <input className="switch-box" type="checkbox" id="switch" hidden onClick={handlePostListReadOpt} />
-            <div className="switch-button"></div>
-          </label>
+          <Switch
+            value={postListReadOpt}
+            onChange={handlePostListReadOpt}
+            size="50"
+            color="#ffffff"
+            backgroundColor={{ on: "#ffcd00", off: "#c1cbd8" }}
+            borderColor={{ on: "#ffcd00", off: "#c1cbd8" }}
+          />
         </div>
       </div>
       <div className="post-list">
