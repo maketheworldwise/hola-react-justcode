@@ -1,0 +1,90 @@
+/*
+ * position
+ * box model
+ * visual
+ * typography
+ * misc
+ */
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+.post-list-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  font-family: "Spoqa Han Sans Neo", "sans-serif";
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #444;
+
+  .menu-1 {
+    display: flex;
+
+    .menu-item {
+      display: flex;
+      margin-right: 1.5rem;
+      cursor: pointer;
+
+      &-image {
+        width: 24px;
+        height: 24px;
+      }
+
+      &-text {
+        margin-left: 0.5rem;
+      }
+    }
+  }
+
+  .menu-2 {
+    display: flex;
+    align-items: center;
+
+    .menu-item-text {
+      margin-right: 20px;
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+    }
+
+    .menu-item-switch {
+      position: relative;
+      display: inline-block;
+      width: 50px;
+      height: 26px;
+      border-radius: 50px;
+      background-color: #ffcd00;
+      cursor: pointer;
+
+      .switch-box {
+        margin: -1px;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        outline: none;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+      }
+
+      .switch-button {
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        transform: translateX(24px);
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        background-color: #ffffff;
+      }
+    }
+  }
+}
+
+.post-list {
+  display: flex;
+  flex-wrap: wrap;
+  grid-gap: 35px;
+  gap: 35px;
+}
