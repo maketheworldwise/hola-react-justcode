@@ -4,6 +4,11 @@
 
 ![](./docs/images/hola.png)
 
+## 사용한 라이브러리
+
+- Reset, scss
+- [Carousel - react-slick](https://github.com/akiran/react-slick)
+
 ## 실제 레포
 
 - https://github.com/wecode-bootcamp-korea/justcode-6-1st-this.4team-front
