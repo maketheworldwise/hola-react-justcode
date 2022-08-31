@@ -1,5 +1,5 @@
 import { Reset } from "styled-reset";
-import Main from "./pages/main";
+import Main from "./pages/Main";
 
 function App() {
   return (
