@@ -1,12 +1,13 @@
 import "./Main.scss";
 import Banner from "../components/banner/Banner";
 import PostList from "../components/postList/PostList";
+import TechCategory from "../components/techCategory/TechCategory";
 
 function Main() {
   return (
     <>
       <Banner />
-      <div style={{ margin: "104px auto" }}>Category Filtering Area</div>
+      <TechCategory />
       <main className="main">
         <PostList />
       </main>

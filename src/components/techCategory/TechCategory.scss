@@ -1,0 +1,59 @@
+/*
+ * position
+ * box model
+ * visual
+ * typography
+ * misc
+ */
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+.tech-container {
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 15px;
+  box-sizing: border-box;
+  margin: 104px auto;
+  font-family: "Spoqa Han Sans Neo", "sans-serif";
+
+  .tech-category-menu {
+    display: flex;
+    padding-bottom: 20px;
+    padding-left: 16px;
+    margin-bottom: 30px;
+    grid-gap: 50px;
+    gap: 50px;
+    border-bottom: 3px solid #f2f2f2;
+
+    .menu-item {
+      display: flex;
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 126.5%;
+      cursor: pointer;
+    }
+  }
+
+  .tech-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    grid-gap: 15px;
+    gap: 15px;
+    margin-bottom: 40px;
+  }
+
+  .tech-filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    grid-gap: 30px;
+    gap: 30px;
+  }
+
+  .init-filter {
+    font-size: 20px;
+    color: #333;
+    cursor: pointer;
+  }
+}
