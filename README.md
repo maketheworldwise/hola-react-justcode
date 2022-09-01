@@ -1,6 +1,6 @@
 # hola-react-justcode
 
-> [Hola 홈페이지](https://holaworld.io/)에서 메인 화면만 클론한 프로젝트입니다. 저작권에 위반되는 내용일 경우 바로 Repository를 삭제 하도록 하겠습니다.
+> [Hola 홈페이지](https://holaworld.io/)에서 메인 화면만 클론한 프로젝트입니다. 이 Repository는 팀 Repository에 반영하기 전에 테스트하기 위한 용도로 만들었습니다. 저작권에 위반되는 내용일 경우 바로 Repository를 삭제 하도록 하겠습니다.
 
 ![](./docs/images/hola.png)
 
