@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "프로젝트",
+      "recruitmentNumber": "2명",
+      "contact": "test@gmail.com",
+      "techSpecs": [
+        {
+          "id": 1,
+          "lang": "lang1",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 2,
+          "lang": "lang2",
+          "langCategory": "back",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 3,
+          "lang": "lang3",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 4,
+          "lang": "lang4",
+          "langCategory": "back",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 5,
+          "lang": "lang5",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        }
+      ],
+      "process": "오프라인",
+      "startAt": "2022.09.07",
+      "expectedDuration": "6개월",
+      "numberOfComments": "10",
+      "isClosed": false,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 8,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "스터디",
+      "recruitmentNumber": "인원 미정",
+      "contact": "test@gmail.com",
+      "techSpecs": [
+        {
+          "id": 1,
+          "lang": "lang1",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 2,
+          "lang": "lang2",
+          "langCategory": "back",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 3,
+          "lang": "lang3",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 4,
+          "lang": "lang4",
+          "langCategory": "back",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        }
+      ],
+      "process": "온라인",
+      "startAt": "2022.09.08",
+      "expectedDuration": "기간 미정",
+      "numberOfComments": "0",
+      "isClosed": false,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 9,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "스터디",
+      "recruitmentNumber": "10명+",
+      "contact": "test@gmail.com",
+      "techSpecs": [
+        {
+          "id": 1,
+          "lang": "lang1",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 2,
+          "lang": "lang2",
+          "langCategory": "back",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 3,
+          "lang": "lang3",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        }
+      ],
+      "process": "오프라인",
+      "startAt": "2022.09.09",
+      "expectedDuration": "6개월",
+      "numberOfComments": "10",
+      "isClosed": false,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 10,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "프로젝트",
+      "recruitmentNumber": "2명",
+      "contact": "test@gmail.com",
+      "techSpecs": [
+        {
+          "id": 1,
+          "lang": "lang1",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        },
+        {
+          "id": 2,
+          "lang": "lang2",
+          "langCategory": "back",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        }
+      ],
+      "process": "오프라인",
+      "startAt": "2022.09.10",
+      "expectedDuration": "6개월",
+      "numberOfComments": "10",
+      "isClosed": true,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 11,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "프로젝트",
+      "recruitmentNumber": "2명",
+      "contact": "test@gmail.com",
+      "techSpecs": [
+        {
+          "id": 1,
+          "lang": "lang1",
+          "langCategory": "front",
+          "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+        }
+      ],
+      "process": "오프라인",
+      "startAt": "2022.09.11",
+      "expectedDuration": "6개월",
+      "numberOfComments": "10",
+      "isClosed": true,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 12,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "프로젝트",
+      "recruitmentNumber": "2명",
+      "contact": "test@gmail.com",
+      "techSpecs": [],
+      "process": "오프라인",
+      "startAt": "2022.09.12",
+      "expectedDuration": "6개월",
+      "numberOfComments": "10",
+      "isClosed": false,
+      "createdAt": "",
+      "updatedAt": ""
+    }
+  ]
+}

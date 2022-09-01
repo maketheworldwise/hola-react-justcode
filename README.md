@@ -9,6 +9,7 @@
 - Reset, scss
 - [Carousel - react-slick](https://github.com/akiran/react-slick)
 - [Switch - react-js-switch](https://www.npmjs.com/package/react-js-switch)
+- [Infinite Scroll - react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
 
 ## 실제 레포
 
