@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "lang": "lang1",
+      "langCategory": "front",
+      "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+    },
+    {
+      "id": 2,
+      "lang": "lang2",
+      "langCategory": "back",
+      "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+    },
+    {
+      "id": 3,
+      "lang": "lang3",
+      "langCategory": "back",
+      "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+    },
+    {
+      "id": 4,
+      "lang": "lang4",
+      "langCategory": "front",
+      "langIcon": "https://holaworld.io/images/languages/reactnative.svg"
+    }
+  ]
+}
