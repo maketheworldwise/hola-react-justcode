@@ -179,6 +179,23 @@
       "isClosed": true,
       "createdAt": "",
       "updatedAt": ""
+    },
+    {
+      "id": 6,
+      "userName": "Test",
+      "userProfileImageUri": "https://hola-post-image.s3.ap-northeast-2.amazonaws.com/default.PNG",
+      "title": "테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트",
+      "recruitmentCategory": "프로젝트",
+      "recruitmentNumber": "2명",
+      "contact": "test@gmail.com",
+      "techSpecs": [],
+      "process": "오프라인",
+      "startAt": "2022.09.06",
+      "expectedDuration": "6개월",
+      "numberOfComments": "10",
+      "isClosed": false,
+      "createdAt": "",
+      "updatedAt": ""
     }
   ]
 }
